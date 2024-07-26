@@ -1,0 +1,4 @@
+WSGI => Web Server Gateway Interface 
+ASGI => Asynchronous Server Gateway Interface
+
+They are the gateway for outer web to your django app
